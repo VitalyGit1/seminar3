@@ -40,3 +40,10 @@
 
     git commit -a
 
+## Команда git commit -am
+
+Чтобы добаваить описание к коммиту, используйте: 
+
+    git commit -am "(description)"
+
+    
